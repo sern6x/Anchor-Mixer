@@ -1,2 +1,5 @@
 # Anchor-Mixer
-An Industrial Mixer with an anchor impeller.
+An industrial mixer with an anchor impeller.
+
+## Tools Used For This Project
+- SolidWorks 2020
